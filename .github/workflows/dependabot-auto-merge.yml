@@ -1,3 +1,4 @@
+# Auto-merge workflow for Dependabot PRs
 name: Dependabot Auto-Merge
 
 on:
